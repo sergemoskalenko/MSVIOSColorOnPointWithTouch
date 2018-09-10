@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MSVIOSColorOnPointWithTouch'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'MSVIOSColorOnPointWithTouch - color on touch of view, image from view, color of point at view for iOS development.'
 
 # This description is used to generate tags and improve search results.
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-MSVIOSColorOnPointWithTouch - color on touch of view, image from view, color of point at view for iOS development.
+MSVIOSColorOnPointWithTouch - color on touch of view, image from view, color of point at view for iOS development. Have a nice day.
                        DESC
 
-  s.homepage         = 'https://github.com/Serge Moskalenko/MSVIOSColorOnPointWithTouch'
+  s.homepage         = 'https://github.com/sergemoskalenko/MSVIOSColorOnPointWithTouch'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Serge Moskalenko' => 'skype:camopu-ympo, http://camopu.rhorse.ru/ios' }
-  s.source           = { :git => 'https://github.com/Serge Moskalenko/MSVIOSColorOnPointWithTouch.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/sergemoskalenko/MSVIOSColorOnPointWithTouch.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/sergemoskalenko'
 
   s.ios.deployment_target = '8.0'
