@@ -1,6 +1,6 @@
 # MSVIOSColorOnPointWithTouch
 
-[![CI Status](https://img.shields.io/travis/sergemoskalenko/MSVIOSColorOnPointWithTouch.svg?style=flat)](https://travis-ci.org/Serge Moskalenko/MSVIOSColorOnPointWithTouch)
+[![CI Status](https://img.shields.io/travis/sergemoskalenko/MSVIOSColorOnPointWithTouch.svg?style=flat)](https://travis-ci.org/sergemoskalenko/MSVIOSColorOnPointWithTouch)
 [![Version](https://img.shields.io/cocoapods/v/MSVIOSColorOnPointWithTouch.svg?style=flat)](https://cocoapods.org/pods/MSVIOSColorOnPointWithTouch)
 [![License](https://img.shields.io/cocoapods/l/MSVIOSColorOnPointWithTouch.svg?style=flat)](https://cocoapods.org/pods/MSVIOSColorOnPointWithTouch)
 [![Platform](https://img.shields.io/cocoapods/p/MSVIOSColorOnPointWithTouch.svg?style=flat)](https://cocoapods.org/pods/MSVIOSColorOnPointWithTouch)
