@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MSVIOSColorOnPointWithTouch'
-  s.version          = '0.1.1'
+  s.version          = '0.1.3'
   s.summary          = 'MSVIOSColorOnPointWithTouch - color on touch of view, image from view, color of point at view for iOS development.'
 
 # This description is used to generate tags and improve search results.
