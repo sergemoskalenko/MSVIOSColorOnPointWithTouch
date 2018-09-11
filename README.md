@@ -29,6 +29,13 @@ pod 'MSVIOSColorOnPointWithTouch'
 
 Serge Moskalenko, skype:camopu-ympo, http://camopu.rhorse.ru/ios
 
+## Versions
+Objective-C version:
+https://github.com/sergemoskalenko/MSVIOSColorOnPointWithTouch
+
+Swift version:
+https://github.com/sergemoskalenko/MSVIOSColorOnPointWithTouch-Swift
+
 ## License
 
 MSVIOSColorOnPointWithTouch is available under the MIT license. See the LICENSE file for more info.
