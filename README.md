@@ -7,6 +7,11 @@
 
 ## Example
 
+
+Online Web Demo: https://goo.gl/u6BKL9
+
+[<img src="https://github.com/sergemoskalenko/MSVIOSColorOnPointWithTouch/blob/master/img/color4touch.gif" alt="Screen" width="400"/>](https://goo.gl/u6BKL9)
+
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
